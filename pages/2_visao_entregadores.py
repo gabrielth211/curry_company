@@ -1,4 +1,5 @@
 # Libraries
+import haversine
 from haversine import haversine
 import plotly
 import plotly.express as px
