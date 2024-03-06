@@ -1,6 +1,6 @@
 # Libraries
-import haversine
-from haversine import haversine
+#import haversine
+#from haversine import haversine
 import folium
 import plotly
 import plotly.express as px
