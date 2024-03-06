@@ -1,10 +1,10 @@
 # Libraries
-import haversine
-from haversine import haversine
-import folium
-import plotly
-import plotly.express as px
-import plotly.graph_objects as go
+#import haversine
+#from haversine import haversine
+#import folium
+##import plotly
+#import plotly.express as px
+#import plotly.graph_objects as go
 
 
 # Bibliotecas necessarias
