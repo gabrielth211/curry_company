@@ -16,7 +16,7 @@ st.sidebar.markdown('# Cury Company')
 st.sidebar.markdown('## Fastest Delivery in Town')
 st.sidebar.markdown("""---""")
 
-st.write('# Curry Company Growth Dashboard')
+#st.write('# Curry Company Growth Dashboard')
 
 st.markdown(
     """ Growth Dashboard foi construido para acompanhar as métricas de crescimento dos Entregadores e Restaurantes.
