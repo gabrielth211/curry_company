@@ -1,6 +1,6 @@
 # Libraries
-#import haversine
-#from haversine import haversine
+import haversine
+from haversine import haversine
 import folium
 import plotly
 import plotly.express as px
@@ -156,7 +156,7 @@ def clean_code(df1) :
     return df1
 #---------------------------- Inicio Da EstruturaLógica de Código -------------------------------
     # Importando Dataset
-df = pd.read_csv('/datasets/train.csv')
+df = pd.read_csv('./datasets/train.csv')
 #df1 = df.copy()
 df1 = clean_code(df)
 
