@@ -1,4 +1,5 @@
 # Libraries
+import haversine
 from haversine import haversine
 import folium
 import plotly
